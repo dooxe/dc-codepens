@@ -6,3 +6,5 @@ My Codepen collection
 
 ## Javascript 
 * ![Kind of POO in js](https://codepen.io/anon/pen/MrzqKy?editors=0012)
+
+  This code aim at making RPG Maker MV class scripting easier
