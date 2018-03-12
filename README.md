@@ -9,4 +9,5 @@ My Codepen collection
 
   This code aims at making RPG Maker MV class scripting easier
   
-## [Shape generator](https://codepen.io/anon/pen/geaYeW?editors=0010) 
+## Others
+ * [Shape generator](https://codepen.io/anon/pen/geaYeW?editors=0010) 
