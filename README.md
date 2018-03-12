@@ -8,3 +8,5 @@ My Codepen collection
 * [Kind of POO in js](https://codepen.io/anon/pen/MrzqKy?editors=0012)
 
   This code aims at making RPG Maker MV class scripting easier
+  
+## [Shape generator](https://codepen.io/anon/pen/geaYeW?editors=0010) 
