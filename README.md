@@ -11,3 +11,4 @@ My Codepen collection
   
 ## Others
  * [Shape generator](https://codepen.io/anon/pen/eMJdZd?editors=0010) 
+    [Rev. 2](https://codepen.io/anon/pen/rdxgjd?editors=0010) 
